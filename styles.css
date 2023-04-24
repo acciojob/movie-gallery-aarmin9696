@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+
+}
